@@ -1,0 +1,18 @@
+# SIGIS — Espace académique
+
+SIGIS est une interface de gestion académique avec des espaces adaptés aux profils administrateur, enseignant et étudiant. Elle regroupe notamment le tableau de bord, les inscriptions, les notes et les relevés.
+
+## Démarrage
+
+Le projet utilise **npm** :
+
+```bash
+npm ci
+npm run dev
+```
+
+L’application s’ouvre ensuite sur `http://localhost:3000`.
+
+## Mise à jour
+
+Le nom de l’établissement affiché dans la barre latérale est **SUP'PTIC**. Le projet est configuré avec `package-lock.json` et npm.
